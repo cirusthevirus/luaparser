@@ -1,2 +1,2 @@
-# luaparser
-Recursive descent parser using backtracking for the lua programming language.
+# Luaparser
+Recursive descent parser for the lua programming language. It uses backtracking and provides clang style error messages.
